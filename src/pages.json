@@ -5,6 +5,18 @@
 			"style": {
 				"navigationBarTitleText": "uni-app"
 			}
+		},
+		{
+			"path": "pages/socialCards/index",
+			"style": {}
+		},
+		{
+			"path": "pages/recivedQrcodes/index",
+			"style": {}
+		},
+		{
+			"path": "pages/homePage/index",
+			"style": {}
 		}
 	],
 	"globalStyle": {
